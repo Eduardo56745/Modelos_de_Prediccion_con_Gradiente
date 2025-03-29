@@ -2,7 +2,7 @@
 
 📌 Descripción
 
-Rusty Bargain busca predecir el valor de mercado de coches de segunda mano usando machine learning. Probamos varios modelos para encontrar el más preciso y rápido.
+Rusty Bargain es una tienda de coches de segunda mano que está desarrollando una aplicación para ayudar a los usuarios a conocer el valor de mercado de sus vehículos de manera rápida y sencilla. Para lograrlo, hemos creado un modelo de machine learning que predice este valor con precisión.
 
 
 🎯 Modelos Evaluados
