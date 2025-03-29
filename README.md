@@ -4,6 +4,7 @@
 
 Rusty Bargain busca predecir el valor de mercado de coches de segunda mano usando machine learning. Probamos varios modelos para encontrar el más preciso y rápido.
 
+
 🎯 Modelos Evaluados
 
 📉 Regresión Lineal
@@ -15,6 +16,7 @@ Rusty Bargain busca predecir el valor de mercado de coches de segunda mano usand
 ⚡ XGBoost
 
 💡 LightGBM
+
 
 📊 Métricas Clave
 
